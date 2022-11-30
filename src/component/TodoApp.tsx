@@ -4,7 +4,7 @@ import styled from 'styled-components';
 import Moment from 'moment';
 const Container = styled.div`
 width: 50vw;
-height: 70vh;
+height: 60vh;
 margin:10vh 20vw;
 padding:5vh 5vw;
 border:1px soilid black;

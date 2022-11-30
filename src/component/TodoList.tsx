@@ -4,7 +4,7 @@ import { TodoI } from './TodoApp';
 import TodoItem from './TodoItem';
 
 const Container = styled.div`
-height: 70vh;
+height: 60vh;
 overflow: auto;
 &::-webkit-scrollbar {
     width: 8px;
