@@ -12,21 +12,25 @@ const EditIcon=styled(EditAlt)`
 color:red;
 width:25px;
 margin:5px;
+cursor:pointer;
 `;
 const DeleteIcon=styled(Delete)`
 color:black;
 width:25px;
 margin-right:5px;
+cursor:pointer;
 `;
 const CheckIcon=styled(ArrowEnterLeft)`
 color:blue;
 width:20px;
 margin:15px;
+cursor:pointer;
 `;
 const CancelIcon=styled(Xmark)`
 color:black;
 width:15px;
 margin-right:15px;
+cursor:pointer;
 `;
 const TileContainer = styled.div`
 display:flex

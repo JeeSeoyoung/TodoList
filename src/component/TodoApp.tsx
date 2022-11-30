@@ -37,8 +37,9 @@ border:none;
 const SubmitBtn = styled.div`
 border:none;
 background-color:transparent;
-font-size:12px;
+font-size:14px;
 color:navy;
+cursor:pointer;
 `;
 
 const TodoListContainer = styled.div`
